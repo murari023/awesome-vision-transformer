@@ -1,5 +1,5 @@
 # awesome-vision-transformer
-A curated list of papers on vision transformers and its applications
+(Under Construction) A curated list of papers on vision transformers and its applications
 
 ## Contents
  - [ViT for Classification](https://github.com/murari023/awesome-background-subtraction#non-deep-learning-based-papers)
@@ -22,10 +22,10 @@ A curated list of papers on vision transformers and its applications
 - [2015 - SuBSENSE - A Universal Change Detection Method With Local Adaptive Sensitivity](http://ieeexplore.ieee.org/document/6975239/)
 
 ## Awesome Researchers
-- [Thierry Bouwnmans](https://scholar.google.co.in/citations?user=e_gZ7MkAAAAJ&hl=en&oi=ao)
+- [XXX](https://scholar.google.co.in/citations?user=e_gZ7MkAAAAJ&hl=en&oi=ao)
 - 
 ## Awesome Resources
-- [bgslibrary](https://github.com/andrewssobral/bgslibrary)
+- [YYY](https://github.com/andrewssobral/bgslibrary)
 
 ## Contributions are always welcomed!
 If you have any suggestions (missing papers, projects, source code, new papers, key researchers, dataset, etc.), please feel free to edit and pull a request. (or just let me know the title of paper)
