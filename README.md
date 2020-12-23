@@ -10,16 +10,26 @@
  - [Awesome Resources](https://github.com/murari023/awesome-background-subtraction#awesome-resources)
 
 ## ViT for Classification
- - [2020 - Scene Independency Matters: An Empirical Study of Scene Dependent and Scene Independent Evaluation for CNN-Based Change Detection](https://ieeexplore.ieee.org/document/9238403) (**2020 - IEEE Transactions on Intelligent Transportation Systems**)
+ - [2020 - An image is worth 16x16 words: Transformers for image recognition at scale](https://arxiv.org/pdf/2010.11929) 
+ - [2020 - Pre-Trained Image Processing Transformer](https://arxiv.org/pdf/2012.00364) 
  
 ## ViT for Object Detection
- - [2020 - Scene Independency Matters: An Empirical Study of Scene Dependent and Scene Independent Evaluation for CNN-Based Change Detection](https://ieeexplore.ieee.org/document/9238403) (**2020 - IEEE Transactions on Intelligent Transportation Systems**)
- 
-### ViT for Semantic Segmentation
-- [2018 - MSFgNet: A Novel Compact End-to-End Deep Network for Moving Object Detection](https://ieeexplore.ieee.org/abstract/document/8546771) (**2019 -  IEEE Transactions on Intelligent Transportation Systems**)
+ - [2020 - UP-DETR: Unsupervised Pre-training for Object Detection with Transformers](https://arxiv.org/pdf/2011.09094) 
+ - [2020 - End-to-End Object Detection with Adaptive Clustering Transformer](https://arxiv.org/pdf/2011.09315) 
+ - [2020 - Rethinking Transformer-based Set Prediction for Object Detection](https://arxiv.org/pdf/2011.10881) 
+ - [2020 - Deformable DETR: Deformable Transformers for End-to-End Object Detection](https://arxiv.org/pdf/2010.04159) 
+ - [2020 - DETR for Pedestrian Detection](https://arxiv.org/pdf/2012.06785) 
+ - [2020 - RelationNet++: Bridging Visual Representations for Object Detection via Transformer Decodern](https://arxiv.org/pdf/2010.15831) 
+  
+## ViT for Semantic/Instance Segmentation
+- [2020 - MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers](https://arxiv.org/pdf/2012.00759)
+- [2020 - End-to-End Video Instance Segmentation with Transformers](https://arxiv.org/pdf/2011.145039)
 
-### ViT for Object Tracking
-- [2015 - SuBSENSE - A Universal Change Detection Method With Local Adaptive Sensitivity](http://ieeexplore.ieee.org/document/6975239/)
+## ViT for Image-to-Image Problems
+- [2020 - ConvTransformer: A Convolutional Transformer Network for Video Frame Synthesis](https://arxiv.org/pdf/2011.10185)
+
+## ViT for Object Tracking
+- 
 
 ## Awesome Researchers
 - [XXX](https://scholar.google.co.in/citations?user=e_gZ7MkAAAAJ&hl=en&oi=ao)
